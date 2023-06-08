@@ -1,0 +1,25 @@
+body
+{
+    background-color:#6C3636;;
+}
+.container
+{
+width: 297px;
+height: 49px;
+left: 57px;
+top: 122px;
+background: #E2BFBF;
+border-radius: 30px;
+text-align:center;
+
+}
+.container1
+{
+width: 339px;
+height: 48px;
+left: 57px;
+top: 360px;
+text-align:center;
+background: #D3E7CE;
+border-radius: 30px;
+}
