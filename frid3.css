@@ -1,0 +1,17 @@
+.container {
+background-color:goldenrod;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+.container {
+    color: #131010;
+  }
+  .container {
+    display: grid;
+    place-items: center;
+  }
+  .title {
+    font-weight: bold;
+    font-style: italic;
+  }
+    
